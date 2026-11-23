@@ -1,0 +1,869 @@
+ACE OF SPACE — IMAGE SOURCE INVENTORY
+=====================================
+
+HTML image placements audited: 211
+Distinct Unsplash photo IDs referenced: 16
+
+IMPORTANT
+The website references its photographs from remote Unsplash image URLs.
+The four bundled local image files are brand/logo assets. This package does
+not contain downloaded copies of the photography. A live internet connection
+is required for those remote photos to load in the browser.
+
+A subtle HDR-inspired CSS display grade has been added to photographic
+images. It is not true HDR capture or an HDR master file.
+
+PHOTO REFERENCES BY PAGE
+-------------------------
+
+[index.html]
+  Alt: Warm, contemporary living room used as an illustrative interior design reference
+  URL: https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=2400&q=88
+
+[index.html]
+  Alt: Interior design visual reference
+  URL: https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=1500&q=88
+
+[index.html]
+  Alt: Interior design visual reference
+  URL: https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1500&q=88
+
+[index.html]
+  Alt: Interior design visual reference
+  URL: https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=1500&q=88
+
+[index.html]
+  Alt: Interior design visual reference
+  URL: https://images.unsplash.com/photo-1600607687644-c7171b42498f?auto=format&fit=crop&w=1500&q=88
+
+[index.html]
+  Alt: Interior design visual reference
+  URL: https://images.unsplash.com/photo-1600566752355-35792bedcfea?auto=format&fit=crop&w=1500&q=88
+
+[index.html]
+  Alt: Interior design visual reference
+  URL: https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=1500&q=88
+
+[index.html]
+  Alt: Interior design visual reference
+  URL: https://images.unsplash.com/photo-1487958449943-2429e8be8625?auto=format&fit=crop&w=1500&q=88
+
+[index.html]
+  Alt: Interior design visual reference
+  URL: https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1500&q=88
+
+[index.html]
+  Alt: Interior design visual reference
+  URL: https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1500&q=88
+
+[index.html]
+  Alt: Construction site visual reference
+  URL: https://images.unsplash.com/photo-1541888946425-d81bb19240f5?auto=format&fit=crop&w=2200&q=88
+
+[index.html]
+  Alt: Illustrative project visual reference
+  URL: https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1700&q=88
+
+[index.html]
+  Alt: Illustrative project visual reference
+  URL: https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=1700&q=88
+
+[index.html]
+  Alt: Illustrative project visual reference
+  URL: https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&w=1700&q=88
+
+[pages/services.html]
+  Alt: Interior design visual reference
+  URL: https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=1600&q=88
+
+[pages/services.html]
+  Alt: Interior design visual reference
+  URL: https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1600&q=88
+
+[pages/services.html]
+  Alt: Interior design visual reference
+  URL: https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=1600&q=88
+
+[pages/services.html]
+  Alt: Interior design visual reference
+  URL: https://images.unsplash.com/photo-1600607687644-c7171b42498f?auto=format&fit=crop&w=1600&q=88
+
+[pages/services.html]
+  Alt: Interior design visual reference
+  URL: https://images.unsplash.com/photo-1600566752355-35792bedcfea?auto=format&fit=crop&w=1600&q=88
+
+[pages/services.html]
+  Alt: Interior design visual reference
+  URL: https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=1600&q=88
+
+[pages/services.html]
+  Alt: Interior design visual reference
+  URL: https://images.unsplash.com/photo-1487958449943-2429e8be8625?auto=format&fit=crop&w=1600&q=88
+
+[pages/services.html]
+  Alt: Interior design visual reference
+  URL: https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1600&q=88
+
+[pages/services.html]
+  Alt: Interior design visual reference
+  URL: https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1600&q=88
+
+[pages/projects.html]
+  Alt: Illustrative project reference image
+  URL: https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1800&q=88
+
+[pages/projects.html]
+  Alt: Illustrative project reference image
+  URL: https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=1800&q=88
+
+[pages/projects.html]
+  Alt: Illustrative project reference image
+  URL: https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=1800&q=88
+
+[pages/projects.html]
+  Alt: Illustrative project reference image
+  URL: https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&w=1800&q=88
+
+[pages/projects.html]
+  Alt: Illustrative project reference image
+  URL: https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1800&q=88
+
+[pages/projects.html]
+  Alt: Illustrative project reference image
+  URL: https://images.unsplash.com/photo-1497366811353-6870744d04b2?auto=format&fit=crop&w=1800&q=88
+
+[pages/contact.html]
+  Alt: Interior space designed with thoughtful details
+  URL: https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=2400&q=88
+
+[pages/contact.html]
+  Alt: Bengaluru city
+  URL: https://images.unsplash.com/photo-1487958449943-2429e8be8625?auto=format&fit=crop&w=2000&q=88
+
+[pages/construction.html]
+  Alt: Construction project in progress
+  URL: https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&w=2400&q=88
+
+[pages/construction.html]
+  Alt: Building and construction work
+  URL: https://images.unsplash.com/photo-1487958449943-2429e8be8625?auto=format&fit=crop&w=2000&q=88
+
+[pages/construction.html]
+  Alt: Residential building
+  URL: https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=2000&q=88
+
+[pages/construction.html]
+  Alt: Commercial building
+  URL: https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=2000&q=88
+
+[pages/construction.html]
+  Alt: Design planning and construction
+  URL: https://images.unsplash.com/photo-1541888946425-d81bb19240f5?auto=format&fit=crop&w=2000&q=88
+
+[pages/testimonials.html]
+  Alt: Finished interior design space
+  URL: https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=2400&q=88
+
+[pages/testimonials.html]
+  Alt: Interior design project by Ace of Space
+  URL: https://images.unsplash.com/photo-1600607687644-c7171b42498f?auto=format&fit=crop&w=2000&q=88
+
+[pages/about.html]
+  Alt: Interior design and construction work by Ace of Space
+  URL: https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=2400&q=88
+
+[pages/about.html]
+  Alt: Interior space representing the work of Ace of Space
+  URL: https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=2000&q=88
+
+[pages/about.html]
+  Alt: Interior design and furnishing
+  URL: https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=2000&q=88
+
+[pages/about.html]
+  Alt: Building construction and execution
+  URL: https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&w=2000&q=88
+
+[pages/about.html]
+  Alt: Thoughtfully designed interior space
+  URL: https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=2000&q=88
+
+[pages/about.html]
+  Alt: Interior project representing the reach of Ace of Space
+  URL: https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=2000&q=88
+
+[pages/projects/project-06.html]
+  Alt: Illustrative interior and architecture reference image
+  URL: https://images.unsplash.com/photo-1497366811353-6870744d04b2?auto=format&fit=crop&w=2400&q=88
+
+[pages/projects/project-06.html]
+  Alt: Illustrative interior and architecture reference image
+  URL: https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=2000&q=88
+
+[pages/projects/project-06.html]
+  Alt: Illustrative interior and architecture reference image
+  URL: https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=2000&q=88
+
+[pages/projects/project-06.html]
+  Alt: Illustrative interior and architecture reference image
+  URL: https://images.unsplash.com/photo-1487958449943-2429e8be8625?auto=format&fit=crop&w=2000&q=88
+
+[pages/projects/project-06.html]
+  Alt: Illustrative interior and architecture reference image
+  URL: https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=2000&q=88
+
+[pages/projects/project-03.html]
+  Alt: Illustrative interior and architecture reference image
+  URL: https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=2400&q=88
+
+[pages/projects/project-03.html]
+  Alt: Illustrative interior and architecture reference image
+  URL: https://images.unsplash.com/photo-1497366811353-6870744d04b2?auto=format&fit=crop&w=2000&q=88
+
+[pages/projects/project-03.html]
+  Alt: Illustrative interior and architecture reference image
+  URL: https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=2000&q=88
+
+[pages/projects/project-03.html]
+  Alt: Illustrative interior and architecture reference image
+  URL: https://images.unsplash.com/photo-1600607687644-c7171b42498f?auto=format&fit=crop&w=2000&q=88
+
+[pages/projects/project-03.html]
+  Alt: Illustrative interior and architecture reference image
+  URL: https://images.unsplash.com/photo-1487958449943-2429e8be8625?auto=format&fit=crop&w=2000&q=88
+
+[pages/projects/project-05.html]
+  Alt: Illustrative interior and architecture reference image
+  URL: https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=2400&q=88
+
+[pages/projects/project-05.html]
+  Alt: Illustrative interior and architecture reference image
+  URL: https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=2000&q=88
+
+[pages/projects/project-05.html]
+  Alt: Illustrative interior and architecture reference image
+  URL: https://images.unsplash.com/photo-1600566752355-35792bedcfea?auto=format&fit=crop&w=2000&q=88
+
+[pages/projects/project-05.html]
+  Alt: Illustrative interior and architecture reference image
+  URL: https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=2000&q=88
+
+[pages/projects/project-05.html]
+  Alt: Illustrative interior and architecture reference image
+  URL: https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=2000&q=88
+
+[pages/projects/project-02.html]
+  Alt: Illustrative interior and architecture reference image
+  URL: https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=2400&q=88
+
+[pages/projects/project-02.html]
+  Alt: Illustrative interior and architecture reference image
+  URL: https://images.unsplash.com/photo-1600566752355-35792bedcfea?auto=format&fit=crop&w=2000&q=88
+
+[pages/projects/project-02.html]
+  Alt: Illustrative interior and architecture reference image
+  URL: https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=2000&q=88
+
+[pages/projects/project-02.html]
+  Alt: Illustrative interior and architecture reference image
+  URL: https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=2000&q=88
+
+[pages/projects/project-02.html]
+  Alt: Illustrative interior and architecture reference image
+  URL: https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=2000&q=88
+
+[pages/projects/project-04.html]
+  Alt: Illustrative interior and architecture reference image
+  URL: https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&w=2400&q=88
+
+[pages/projects/project-04.html]
+  Alt: Illustrative interior and architecture reference image
+  URL: https://images.unsplash.com/photo-1541888946425-d81bb19240f5?auto=format&fit=crop&w=2000&q=88
+
+[pages/projects/project-04.html]
+  Alt: Illustrative interior and architecture reference image
+  URL: https://images.unsplash.com/photo-1504307651254-35680f356dfd?auto=format&fit=crop&w=2000&q=88
+
+[pages/projects/project-04.html]
+  Alt: Illustrative interior and architecture reference image
+  URL: https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=2000&q=88
+
+[pages/projects/project-04.html]
+  Alt: Illustrative interior and architecture reference image
+  URL: https://images.unsplash.com/photo-1487958449943-2429e8be8625?auto=format&fit=crop&w=2000&q=88
+
+[pages/projects/project-01.html]
+  Alt: Illustrative interior and architecture reference image
+  URL: https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=2400&q=88
+
+[pages/projects/project-01.html]
+  Alt: Illustrative interior and architecture reference image
+  URL: https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=2000&q=88
+
+[pages/projects/project-01.html]
+  Alt: Illustrative interior and architecture reference image
+  URL: https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=2000&q=88
+
+[pages/projects/project-01.html]
+  Alt: Illustrative interior and architecture reference image
+  URL: https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=2000&q=88
+
+[pages/projects/project-01.html]
+  Alt: Illustrative interior and architecture reference image
+  URL: https://images.unsplash.com/photo-1600607687644-c7171b42498f?auto=format&fit=crop&w=2000&q=88
+
+[pages/services/doors-windows-partitions.html]
+  Alt: Doors Windows Partitions interior design visual reference
+  URL: https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=2200&q=88
+
+[pages/services/doors-windows-partitions.html]
+  Alt: Aluminium Doors & Windows visual reference
+  URL: https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/doors-windows-partitions.html]
+  Alt: Doors Windows Partitions interior design visual reference
+  URL: https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=2200&q=88
+
+[pages/services/doors-windows-partitions.html]
+  Alt: UPVC Doors & Windows visual reference
+  URL: https://images.unsplash.com/photo-1497366811353-6870744d04b2?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/doors-windows-partitions.html]
+  Alt: Doors Windows Partitions interior design visual reference
+  URL: https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=2200&q=88
+
+[pages/services/doors-windows-partitions.html]
+  Alt: Sliding Doors visual reference
+  URL: https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/doors-windows-partitions.html]
+  Alt: Doors Windows Partitions interior design visual reference
+  URL: https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=2200&q=88
+
+[pages/services/doors-windows-partitions.html]
+  Alt: Glass Doors visual reference
+  URL: https://images.unsplash.com/photo-1487958449943-2429e8be8625?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/doors-windows-partitions.html]
+  Alt: Doors Windows Partitions interior design visual reference
+  URL: https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=2200&q=88
+
+[pages/services/doors-windows-partitions.html]
+  Alt: Glass Partitions visual reference
+  URL: https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/doors-windows-partitions.html]
+  Alt: Doors Windows Partitions interior design visual reference
+  URL: https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=2200&q=88
+
+[pages/services/doors-windows-partitions.html]
+  Alt: Wooden Doors visual reference
+  URL: https://images.unsplash.com/photo-1541888946425-d81bb19240f5?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/doors-windows-partitions.html]
+  Alt: Doors Windows Partitions interior design visual reference
+  URL: https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=2200&q=88
+
+[pages/services/doors-windows-partitions.html]
+  Alt: Room Dividers visual reference
+  URL: https://images.unsplash.com/photo-1504307651254-35680f356dfd?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/doors-windows-partitions.html]
+  Alt: Doors Windows Partitions interior design visual reference
+  URL: https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=2200&q=88
+
+[pages/services/other-interior-spaces.html]
+  Alt: Other Interior Spaces interior design visual reference
+  URL: https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=2200&q=88
+
+[pages/services/other-interior-spaces.html]
+  Alt: Pooja Units visual reference
+  URL: https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/other-interior-spaces.html]
+  Alt: Other Interior Spaces interior design visual reference
+  URL: https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=2200&q=88
+
+[pages/services/other-interior-spaces.html]
+  Alt: Bathroom Vanities visual reference
+  URL: https://images.unsplash.com/photo-1600566752355-35792bedcfea?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/other-interior-spaces.html]
+  Alt: Other Interior Spaces interior design visual reference
+  URL: https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=2200&q=88
+
+[pages/services/other-interior-spaces.html]
+  Alt: Laundry Units visual reference
+  URL: https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/other-interior-spaces.html]
+  Alt: Other Interior Spaces interior design visual reference
+  URL: https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=2200&q=88
+
+[pages/services/other-interior-spaces.html]
+  Alt: Utility Areas visual reference
+  URL: https://images.unsplash.com/photo-1497366811353-6870744d04b2?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/other-interior-spaces.html]
+  Alt: Other Interior Spaces interior design visual reference
+  URL: https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=2200&q=88
+
+[pages/services/other-interior-spaces.html]
+  Alt: Balcony Interiors visual reference
+  URL: https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/other-interior-spaces.html]
+  Alt: Other Interior Spaces interior design visual reference
+  URL: https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=2200&q=88
+
+[pages/services/other-interior-spaces.html]
+  Alt: Home Office Interiors visual reference
+  URL: https://images.unsplash.com/photo-1487958449943-2429e8be8625?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/other-interior-spaces.html]
+  Alt: Other Interior Spaces interior design visual reference
+  URL: https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=2200&q=88
+
+[pages/services/other-interior-spaces.html]
+  Alt: Kids
+  URL: https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/other-interior-spaces.html]
+  Alt: Other Interior Spaces interior design visual reference
+  URL: https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=2200&q=88
+
+[pages/services/other-interior-spaces.html]
+  Alt: Walk-in Wardrobes visual reference
+  URL: https://images.unsplash.com/photo-1541888946425-d81bb19240f5?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/other-interior-spaces.html]
+  Alt: Other Interior Spaces interior design visual reference
+  URL: https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=2200&q=88
+
+[pages/services/materials-carpentry.html]
+  Alt: Materials Carpentry interior design visual reference
+  URL: https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=2200&q=88
+
+[pages/services/materials-carpentry.html]
+  Alt: Plywood visual reference
+  URL: https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/materials-carpentry.html]
+  Alt: Materials Carpentry interior design visual reference
+  URL: https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=2200&q=88
+
+[pages/services/materials-carpentry.html]
+  Alt: Laminates visual reference
+  URL: https://images.unsplash.com/photo-1600566752355-35792bedcfea?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/materials-carpentry.html]
+  Alt: Materials Carpentry interior design visual reference
+  URL: https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=2200&q=88
+
+[pages/services/materials-carpentry.html]
+  Alt: MDF Boards visual reference
+  URL: https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/materials-carpentry.html]
+  Alt: Materials Carpentry interior design visual reference
+  URL: https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=2200&q=88
+
+[pages/services/materials-carpentry.html]
+  Alt: HDHMR Boards visual reference
+  URL: https://images.unsplash.com/photo-1497366811353-6870744d04b2?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/materials-carpentry.html]
+  Alt: Materials Carpentry interior design visual reference
+  URL: https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=2200&q=88
+
+[pages/services/materials-carpentry.html]
+  Alt: Veneers visual reference
+  URL: https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/materials-carpentry.html]
+  Alt: Materials Carpentry interior design visual reference
+  URL: https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=2200&q=88
+
+[pages/services/materials-carpentry.html]
+  Alt: Hardware & Fittings visual reference
+  URL: https://images.unsplash.com/photo-1487958449943-2429e8be8625?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/materials-carpentry.html]
+  Alt: Materials Carpentry interior design visual reference
+  URL: https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=2200&q=88
+
+[pages/services/materials-carpentry.html]
+  Alt: Custom Carpentry visual reference
+  URL: https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/materials-carpentry.html]
+  Alt: Materials Carpentry interior design visual reference
+  URL: https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=2200&q=88
+
+[pages/services/materials-carpentry.html]
+  Alt: Wooden Partitions visual reference
+  URL: https://images.unsplash.com/photo-1541888946425-d81bb19240f5?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/materials-carpentry.html]
+  Alt: Materials Carpentry interior design visual reference
+  URL: https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=2200&q=88
+
+[pages/services/ceiling-lighting.html]
+  Alt: Ceiling Lighting interior design visual reference
+  URL: https://images.unsplash.com/photo-1541888946425-d81bb19240f5?auto=format&fit=crop&w=2200&q=88
+
+[pages/services/ceiling-lighting.html]
+  Alt: False Ceilings visual reference
+  URL: https://images.unsplash.com/photo-1541888946425-d81bb19240f5?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/ceiling-lighting.html]
+  Alt: Ceiling Lighting interior design visual reference
+  URL: https://images.unsplash.com/photo-1541888946425-d81bb19240f5?auto=format&fit=crop&w=2200&q=88
+
+[pages/services/ceiling-lighting.html]
+  Alt: POP Ceilings visual reference
+  URL: https://images.unsplash.com/photo-1504307651254-35680f356dfd?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/ceiling-lighting.html]
+  Alt: Ceiling Lighting interior design visual reference
+  URL: https://images.unsplash.com/photo-1541888946425-d81bb19240f5?auto=format&fit=crop&w=2200&q=88
+
+[pages/services/ceiling-lighting.html]
+  Alt: Gypsum Ceilings visual reference
+  URL: https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/ceiling-lighting.html]
+  Alt: Ceiling Lighting interior design visual reference
+  URL: https://images.unsplash.com/photo-1541888946425-d81bb19240f5?auto=format&fit=crop&w=2200&q=88
+
+[pages/services/ceiling-lighting.html]
+  Alt: Wooden Ceilings visual reference
+  URL: https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/ceiling-lighting.html]
+  Alt: Ceiling Lighting interior design visual reference
+  URL: https://images.unsplash.com/photo-1541888946425-d81bb19240f5?auto=format&fit=crop&w=2200&q=88
+
+[pages/services/ceiling-lighting.html]
+  Alt: Ceiling Designs visual reference
+  URL: https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/ceiling-lighting.html]
+  Alt: Ceiling Lighting interior design visual reference
+  URL: https://images.unsplash.com/photo-1541888946425-d81bb19240f5?auto=format&fit=crop&w=2200&q=88
+
+[pages/services/ceiling-lighting.html]
+  Alt: Chandeliers visual reference
+  URL: https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/ceiling-lighting.html]
+  Alt: Ceiling Lighting interior design visual reference
+  URL: https://images.unsplash.com/photo-1541888946425-d81bb19240f5?auto=format&fit=crop&w=2200&q=88
+
+[pages/services/ceiling-lighting.html]
+  Alt: Decorative Lighting visual reference
+  URL: https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/ceiling-lighting.html]
+  Alt: Ceiling Lighting interior design visual reference
+  URL: https://images.unsplash.com/photo-1541888946425-d81bb19240f5?auto=format&fit=crop&w=2200&q=88
+
+[pages/services/ceiling-lighting.html]
+  Alt: LED Profile Lighting visual reference
+  URL: https://images.unsplash.com/photo-1600607687644-c7171b42498f?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/ceiling-lighting.html]
+  Alt: Ceiling Lighting interior design visual reference
+  URL: https://images.unsplash.com/photo-1541888946425-d81bb19240f5?auto=format&fit=crop&w=2200&q=88
+
+[pages/services/wall-interiors-decoration.html]
+  Alt: Wall Interiors Decoration interior design visual reference
+  URL: https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=2200&q=88
+
+[pages/services/wall-interiors-decoration.html]
+  Alt: Wall Panelling visual reference
+  URL: https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/wall-interiors-decoration.html]
+  Alt: Wall Interiors Decoration interior design visual reference
+  URL: https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=2200&q=88
+
+[pages/services/wall-interiors-decoration.html]
+  Alt: Wooden Wall Panelling visual reference
+  URL: https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/wall-interiors-decoration.html]
+  Alt: Wall Interiors Decoration interior design visual reference
+  URL: https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=2200&q=88
+
+[pages/services/wall-interiors-decoration.html]
+  Alt: PVC Wall Panelling visual reference
+  URL: https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/wall-interiors-decoration.html]
+  Alt: Wall Interiors Decoration interior design visual reference
+  URL: https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=2200&q=88
+
+[pages/services/wall-interiors-decoration.html]
+  Alt: Wallpaper Installation visual reference
+  URL: https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/wall-interiors-decoration.html]
+  Alt: Wall Interiors Decoration interior design visual reference
+  URL: https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=2200&q=88
+
+[pages/services/wall-interiors-decoration.html]
+  Alt: Decorative Wall Designs visual reference
+  URL: https://images.unsplash.com/photo-1600607687644-c7171b42498f?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/wall-interiors-decoration.html]
+  Alt: Wall Interiors Decoration interior design visual reference
+  URL: https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=2200&q=88
+
+[pages/services/wall-interiors-decoration.html]
+  Alt: Wall Cladding visual reference
+  URL: https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/wall-interiors-decoration.html]
+  Alt: Wall Interiors Decoration interior design visual reference
+  URL: https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=2200&q=88
+
+[pages/services/wall-interiors-decoration.html]
+  Alt: Texture Painting visual reference
+  URL: https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/wall-interiors-decoration.html]
+  Alt: Wall Interiors Decoration interior design visual reference
+  URL: https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=2200&q=88
+
+[pages/services/wall-interiors-decoration.html]
+  Alt: Mirrors & Decorative Panels visual reference
+  URL: https://images.unsplash.com/photo-1600566752355-35792bedcfea?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/wall-interiors-decoration.html]
+  Alt: Wall Interiors Decoration interior design visual reference
+  URL: https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=2200&q=88
+
+[pages/services/fabrication-metal-works.html]
+  Alt: Fabrication Metal Works interior design visual reference
+  URL: https://images.unsplash.com/photo-1600607687644-c7171b42498f?auto=format&fit=crop&w=2200&q=88
+
+[pages/services/fabrication-metal-works.html]
+  Alt: MS Fabrication visual reference
+  URL: https://images.unsplash.com/photo-1600607687644-c7171b42498f?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/fabrication-metal-works.html]
+  Alt: Fabrication Metal Works interior design visual reference
+  URL: https://images.unsplash.com/photo-1600607687644-c7171b42498f?auto=format&fit=crop&w=2200&q=88
+
+[pages/services/fabrication-metal-works.html]
+  Alt: Stainless Steel Fabrication visual reference
+  URL: https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/fabrication-metal-works.html]
+  Alt: Fabrication Metal Works interior design visual reference
+  URL: https://images.unsplash.com/photo-1600607687644-c7171b42498f?auto=format&fit=crop&w=2200&q=88
+
+[pages/services/fabrication-metal-works.html]
+  Alt: Metal Railings visual reference
+  URL: https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/fabrication-metal-works.html]
+  Alt: Fabrication Metal Works interior design visual reference
+  URL: https://images.unsplash.com/photo-1600607687644-c7171b42498f?auto=format&fit=crop&w=2200&q=88
+
+[pages/services/fabrication-metal-works.html]
+  Alt: Staircase Railings visual reference
+  URL: https://images.unsplash.com/photo-1600566752355-35792bedcfea?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/fabrication-metal-works.html]
+  Alt: Fabrication Metal Works interior design visual reference
+  URL: https://images.unsplash.com/photo-1600607687644-c7171b42498f?auto=format&fit=crop&w=2200&q=88
+
+[pages/services/fabrication-metal-works.html]
+  Alt: Metal Frames visual reference
+  URL: https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/fabrication-metal-works.html]
+  Alt: Fabrication Metal Works interior design visual reference
+  URL: https://images.unsplash.com/photo-1600607687644-c7171b42498f?auto=format&fit=crop&w=2200&q=88
+
+[pages/services/fabrication-metal-works.html]
+  Alt: Custom Metal Works visual reference
+  URL: https://images.unsplash.com/photo-1497366811353-6870744d04b2?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/fabrication-metal-works.html]
+  Alt: Fabrication Metal Works interior design visual reference
+  URL: https://images.unsplash.com/photo-1600607687644-c7171b42498f?auto=format&fit=crop&w=2200&q=88
+
+[pages/services/modular-interiors.html]
+  Alt: Modular Interiors interior design visual reference
+  URL: https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=2200&q=88
+
+[pages/services/modular-interiors.html]
+  Alt: Modular Kitchens visual reference
+  URL: https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/modular-interiors.html]
+  Alt: Wardrobes visual reference
+  URL: https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/modular-interiors.html]
+  Alt: TV Units visual reference
+  URL: https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/modular-interiors.html]
+  Alt: Crockery Units visual reference
+  URL: https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/modular-interiors.html]
+  Alt: Bedroom Interiors visual reference
+  URL: https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/modular-interiors.html]
+  Alt: Living Room Interiors visual reference
+  URL: https://images.unsplash.com/photo-1600607687644-c7171b42498f?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/modular-interiors.html]
+  Alt: Study Tables & Units visual reference
+  URL: https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/modular-interiors.html]
+  Alt: Shoe Racks visual reference
+  URL: https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/modular-interiors.html]
+  Alt: Bar Units visual reference
+  URL: https://images.unsplash.com/photo-1600566752355-35792bedcfea?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/modular-interiors.html]
+  Alt: Storage Units visual reference
+  URL: https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/furniture.html]
+  Alt: Furniture interior design visual reference
+  URL: https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=2200&q=88
+
+[pages/services/furniture.html]
+  Alt: Custom-Made Furniture visual reference
+  URL: https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/furniture.html]
+  Alt: Furniture interior design visual reference
+  URL: https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=2200&q=88
+
+[pages/services/furniture.html]
+  Alt: Sofa Sets visual reference
+  URL: https://images.unsplash.com/photo-1600607687644-c7171b42498f?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/furniture.html]
+  Alt: Furniture interior design visual reference
+  URL: https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=2200&q=88
+
+[pages/services/furniture.html]
+  Alt: Beds visual reference
+  URL: https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/furniture.html]
+  Alt: Furniture interior design visual reference
+  URL: https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=2200&q=88
+
+[pages/services/furniture.html]
+  Alt: Dining Tables visual reference
+  URL: https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/furniture.html]
+  Alt: Furniture interior design visual reference
+  URL: https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=2200&q=88
+
+[pages/services/furniture.html]
+  Alt: Coffee Tables visual reference
+  URL: https://images.unsplash.com/photo-1600566752355-35792bedcfea?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/furniture.html]
+  Alt: Furniture interior design visual reference
+  URL: https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=2200&q=88
+
+[pages/services/furniture.html]
+  Alt: Office Furniture visual reference
+  URL: https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/furniture.html]
+  Alt: Furniture interior design visual reference
+  URL: https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=2200&q=88
+
+[pages/services/furniture.html]
+  Alt: Dressing Tables visual reference
+  URL: https://images.unsplash.com/photo-1497366811353-6870744d04b2?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/furniture.html]
+  Alt: Furniture interior design visual reference
+  URL: https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=2200&q=88
+
+[pages/services/furniture.html]
+  Alt: Side Tables visual reference
+  URL: https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/furniture.html]
+  Alt: Furniture interior design visual reference
+  URL: https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=2200&q=88
+
+[pages/services/flooring.html]
+  Alt: Flooring interior design visual reference
+  URL: https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=2200&q=88
+
+[pages/services/flooring.html]
+  Alt: Wooden Flooring visual reference
+  URL: https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/flooring.html]
+  Alt: Flooring interior design visual reference
+  URL: https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=2200&q=88
+
+[pages/services/flooring.html]
+  Alt: Vinyl Flooring visual reference
+  URL: https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/flooring.html]
+  Alt: Flooring interior design visual reference
+  URL: https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=2200&q=88
+
+[pages/services/flooring.html]
+  Alt: Laminate Flooring visual reference
+  URL: https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/flooring.html]
+  Alt: Flooring interior design visual reference
+  URL: https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=2200&q=88
+
+[pages/services/flooring.html]
+  Alt: Tile Flooring visual reference
+  URL: https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/flooring.html]
+  Alt: Flooring interior design visual reference
+  URL: https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=2200&q=88
+
+[pages/services/flooring.html]
+  Alt: Marble Flooring visual reference
+  URL: https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/flooring.html]
+  Alt: Flooring interior design visual reference
+  URL: https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=2200&q=88
+
+[pages/services/flooring.html]
+  Alt: SPC Flooring visual reference
+  URL: https://images.unsplash.com/photo-1600607687644-c7171b42498f?auto=format&fit=crop&w=1500&q=88
+
+[pages/services/flooring.html]
+  Alt: Flooring interior design visual reference
+  URL: https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=2200&q=88
+
+
+LICENSING / PORTFOLIO NOTE
+-------------------------
+Review the applicable Unsplash License and each source image's page before
+commercial publication. Stock/reference images should not be represented as
+Ace of Space's own completed projects. Replace project-gallery stock images
+with genuine company photography when available.
